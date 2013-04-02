@@ -1,4 +1,27 @@
 ---
+XX:
+  continent: None
+  alpha2: XX
+  alpha3: XXX
+  country_code: "999"
+  currency: None
+  international_prefix: "99"
+  ioc: XXX
+  latitude: "42 30 N"
+  longitude: "1 30 E"
+  name: "Global"
+  names:
+    - "Global"
+  translations:
+    en: "Global"
+  national_prefix: None
+  number: "999"
+  region: None
+  subregion: None
+  un_locode: XX
+  languages:
+    - en
+  nationality: None
 AD:
   continent: Europe
   alpha2: AD
